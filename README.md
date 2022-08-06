@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrakaf
+- 👋 Hi, I’m Muhammad Raka F
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning HTML, CSS, Java Script
 - 💞️ I’m looking to collaborate on Universitas Komputer Indonesia Bandung
